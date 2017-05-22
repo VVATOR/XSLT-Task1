@@ -1,0 +1,128 @@
+body {
+    padding-top: 0px;
+    margin: 0px;
+    background: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    color: orange;
+}
+
+.doc-level {
+    margin: 10px;
+}
+
+p {
+    color: black;
+}
+
+p.text {
+    font-style: italic;
+}
+
+.comment {
+    background: whitesmoke;
+    border: 1px solid #CDCDCD;
+    margin: 5px;
+    padding: 5px;
+}
+
+.bluebox {
+    background: blue;
+    margin: 5px;
+    padding: 5px;
+}
+
+.bluebox * {
+    color: white;
+}
+
+.redbox {
+    background: red;
+    margin: 5px;
+    padding: 5px;
+}
+
+.redbox * {
+    color: white;
+}
+
+.img-with-desc {
+    max-width: 50%;
+    display: inline-block;
+    text-align: center;
+}
+
+.img-with-desc img {
+    max-width: 100%;
+}
+
+table {
+    margin: 5px;
+    border: 5px solid yellow;
+}
+
+th {
+    border: 1px solid black;
+    background: lawngreen
+}
+
+td {
+    border: 1px dotted black;
+}
+
+td.bold {
+    font-weight: bold;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.qa-block {
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid yellowgreen;
+    background: wheat;
+}
+
+.question {
+    color: green;
+}
+
+.answer {
+    color: red;
+    padding-bottom: 10px;
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.image {
+    border: 5px solid white;
+    background: lightpink;
+    display: inline-block;
+}
+
+p.img-description {
+    color: red;
+}
+
+p.subheading {
+    color: orangered;
+}
+
+ul {
+    color: green;
+}
+
+li {
+    padding: 1em 0;
+}

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<event id="3">
+    <heading type="title">ASTON VILLA: How they fared last season</heading>
+    <heading type="title-footer">Thanks for reading</heading>
+    <table>
+        <table-heading>What's going on?</table-heading>
+        <table-row>
+            <table-cell style="bold">Premier League:</table-cell>
+            <table-cell>15th</table-cell>
+        </table-row>
+        <table-row>
+            <table-cell style="bold">FA Cup:</table-cell>
+            <table-cell>Fourth round</table-cell>
+        </table-row>
+        <table-row>
+            <table-cell style="bold">Capital One Cup:</table-cell>
+            <table-cell>Semi-final</table-cell>
+        </table-row>
+    </table>
+    <doc-level type="comment">
+        <para type="text">
+            <date>13/1/2014</date>
+        </para>
+        <external-link source="http://www.bbc.com/sport/0/football/22905732" />
+    </doc-level>
+    <doc-level type="bluebox">
+        <image source="image.jpg" description="My cat" />
+        <para type="text">In his regular BBC Sport column, Robbie Savage looks at Aston Villa's 3-0 defeat by Manchester United on Sunday.</para>
+        <para type="text">There has been a lot of criticism of United in recent weeks, so their manager David Moyes deserves credit for getting things right at Villa Park. A number of their players can take real positives away from the game.</para>
+        <para type="text">But it helped Moyes a lot that Villa were so poor in pretty much every area of the pitch. In fact, they were awful.</para>
+    </doc-level>
+    <doc-level>
+        <h1>Leandro Bacuna</h1>
+        <h2>Nicklas Helenius</h2>
+        <subheading>Antonio Luna</subheading>
+    </doc-level>
+    <doc-level position="right">
+        <para type="num">
+            <num>XXIV</num>
+        </para>
+        <h1>Summer so far</h1>
+
+    </doc-level>
+    <qa-block>
+        <question>Under Paul Lambert, Villa's home form is terrible. They have only scored six times in eight home league games this season, and have lost five of them.</question>
+        <answer>Why are they so bad? Well, every other pundit I listen to knows they are a counter-attacking side and other teams seem to have worked them out too. United definitely did.</answer>
+        <question>Villa actually made a pretty good start on Sunday. They had six shots in the first five minutes and looked quite dangerous.</question>
+        <answer>But that all changed as soon as Danny Welbeck scored twice in quick succession.</answer>
+        <question>From then on, United were in control of the game and Rafael and Antonio Valencia tore Luna apart.</question>
+        <answer>Almost half of their attacks came down that third of the pitch, while Wayne Rooney dropped deep and started spraying passes out wide too.</answer>
+    </qa-block>
+
+    <para type="ordered-list" style="roman">
+        <para type="unordered-list" style="square">
+            <list-item>Bayern Munich are set to rival Paris St-Germain and Napoli in the race to sign Chelsea attacking midfielder Juan Mata, 25.</list-item>
+            <list-item>Arsenal are planning to offer £30m for Newcastle midfielder Yohan Cabaye, 27, and 23-year-old full-back Davide Santon.</list-item>
+            <list-item>unordered list with style "circle" example:
+                <para type="unordered-list" style="circle">
+                    <list-item>Wolfsburg director of sport Klaus Allofs is confident that a deal has nearly been secured to sign Chelsea midfielder Kevin de Bruyne, 22.</list-item>
+                    <list-item>Chelsea boss Jose Mourinho is keen to sign 19-year-old St Etienne defender Kurt Zouma as a long-term replacement for John Terry.</list-item>
+                    <list-item>ordered list with style "roman" example:
+                        <para type="ordered-list" style="roman">
+                            <list-item>It is almost exactly 100 years since Hogan first went to Hungary, via a spell in internship in Austria at the start of World War I.</list-item>
+                            <list-item>Born in Nelson in 1882, the former Burnley, Fulham, Swindon and Bolton inside-forward was in his early 30s when he took charge of Budapest club MTK in 1914, introducing a brand of football that was to become known as "the Danubian
+                                Style" and sparking a national obsession with the game in a country where it had previously been largely ignored.</list-item>
+                            <list-item>He briefly came home in 1918, where he was called a traitor by the Football Association for working abroad during the war, before embarking on a tour of Europe that saw him coach in Switzerland, Germany and back in Budapest
+                                during the 1920s. He helped Switzerland reach the final of the 1926 Olympics and more titles with MTK followed.</list-item>
+                            <list-item>It was in the 1930s that he began to be appreciated by a wider audience, working with Hugo Meisl's legendary Austrian national side during a period when they were known as the 'Wunderteam' before being appointed Fulham manager
+                                in 1934.</list-item>
+                        </para>
+                    </list-item>
+                </para>
+            </list-item>
+        </para>
+    </para>
+
+	<doc-level type="redbox">
+		<para type="unordered-list" style="square">
+			<list-item>Bayern Munich are set to rival Paris St-Germain and Napoli in the race to sign Chelsea attacking midfielder Juan Mata, 25.</list-item>
+			<list-item>Arsenal are planning to offer £30m for Newcastle midfielder Yohan Cabaye, 27, and 23-year-old full-back Davide Santon.</list-item>
+			<list-item>unordered list example:
+				<para type="unordered-list" style="circle">
+					<list-item>Wolfsburg director of sport Klaus Allofs is confident that a deal has nearly been secured to sign Chelsea midfielder Kevin de Bruyne, 22.</list-item>
+					<list-item>Chelsea boss Jose Mourinho is keen to sign 19-year-old St Etienne defender Kurt Zouma as a long-term replacement for John Terry.</list-item>
+				</para>
+			</list-item>
+		</para>
+	</doc-level>
+</event>
